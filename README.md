@@ -4,7 +4,7 @@
 
 
 
-<img src="/files/CustomTerminal.png"  width="800" height="360">
+<img src="/CustomTerminal.png"  width="800" height="360">
 
 ## 1 - Instalar a versão mais recente do PowerShell
 
@@ -14,7 +14,7 @@ No PowerShell executar o comando:
 
 ## 2 - Configurar o PowerShell para a nova versão
 
-<img src="/files/PwshConfig1.png"  width="800" height="600">
+<img src="/PwshConfig1.png"  width="800" height="600">
 
 ## 3 - Instalar Módulos
 
@@ -75,7 +75,7 @@ Dentro dessa pasta copie o arquivo **user_profile.ps1** que estão na pasta file
 
 **IMPORTANTE:** Após copiar o arquivo clique com o botão direito do mouse sobre ele e marque a opção **Unblock**
 
-<img src="/files/SecurityFile.jpeg"  width="360" height="503">
+<img src="/SecurityFile.jpeg"  width="360" height="503">
 
 
 Edite a variavel **$PROFILE.CurrentUserCurrentHost** usando:
@@ -98,7 +98,7 @@ Faça download e instale o arquivo de fonte **Hack_Bold_Italic_Nerd_Font_Complet
 
 Configurar a fonte no Terminal:  
 
-<img src="/files/PwshConfig2.png"  width="800" height="600">
+<img src="/PwshConfig2.png"  width="800" height="600">
 
 ## Outros temas para o Terminal:
 
